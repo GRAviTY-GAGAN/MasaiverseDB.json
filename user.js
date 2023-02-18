@@ -5,7 +5,7 @@ let place = document.getElementById("place");
 let batch = document.getElementById("batch");
 let profession = document.getElementById("profession");
 
-let baseURL = "https://not-masai-repo-but-public-db-json.onrender.com";
+let baseURL = "http://localhost:3000";
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();

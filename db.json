@@ -1,20 +1,28 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Chandra",
-        "age": 29,
-        "place": "Visakhapatnam",
-        "batch_name": "WEB-21",
-        "profession": "FSD"
-      },
-      {
-        "id": 2,
-        "name": "Nrupul",
-        "age": 32,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 29,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "id": 1676717236571,
+      "name": "Gagan BN",
+      "age": 23,
+      "place": "Mysore",
+      "batch": "WEB-24",
+      "profession": "Student"
+    }
+  ]
+}
