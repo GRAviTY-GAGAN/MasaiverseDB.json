@@ -34,6 +34,12 @@ async function register(user) {
 
     let res = await req.json();
     console.log(res);
+    alert("Successfully registered");
+    name.value = "";
+    age.value = "";
+    place.value = "";
+    batch.value = "";
+    profession.value = "";
   } catch (error) {
     console.log(error);
   }
