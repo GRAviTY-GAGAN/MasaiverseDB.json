@@ -1,19 +1,15 @@
 {
-  "name": "masaiversedb.json",
+  "name": "masaiverse-revision-assignment",
   "version": "1.0.0",
   "description": "",
-  "main": "data/db.json",
+  "master": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js" 
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GRAviTY-GAGAN/MasaiverseDB.json.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GRAviTY-GAGAN/MasaiverseDB.json/issues"
-  },
-  "homepage": "https://github.com/GRAviTY-GAGAN/MasaiverseDB.json#readme"
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
